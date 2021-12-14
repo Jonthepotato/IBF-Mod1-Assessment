@@ -54,7 +54,7 @@
            <configuration>
 	<archive>
 		<manifest>
-			<mainClass>Main</mainClass>
+			<mainClass>test/Main</mainClass>
 		</manifest>
 	</archive>
 </configuration>  
